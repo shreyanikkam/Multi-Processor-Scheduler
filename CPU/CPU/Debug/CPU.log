@@ -1,0 +1,18 @@
+﻿  Scheduler.cpp
+f:\oops\final project\cpu\cpu\scheduler.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(52): warning C4018: '<': signed/unsigned mismatch
+f:\oops\final project\cpu\cpu\scheduler.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(78): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(90): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(101): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(106): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(133): warning C4101: 'location': unreferenced local variable
+f:\oops\final project\cpu\cpu\scheduler.cpp(167): warning C4018: '<': signed/unsigned mismatch
+f:\oops\final project\cpu\cpu\scheduler.cpp(170): warning C4018: '<': signed/unsigned mismatch
+f:\oops\final project\cpu\cpu\scheduler.cpp(188): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\oops\final project\cpu\cpu\scheduler.cpp(343): warning C4018: '<': signed/unsigned mismatch
+f:\oops\final project\cpu\cpu\scheduler.cpp(352): warning C4018: '<': signed/unsigned mismatch
+f:\oops\final project\cpu\cpu\scheduler.cpp(61): warning C4715: 'typeDecision': not all control paths return a value
+  CPU.vcxproj -> F:\OOPS\final project\CPU\Debug\CPU.exe
+  CPU.vcxproj -> F:\OOPS\final project\CPU\Debug\CPU.pdb (Partial PDB)
